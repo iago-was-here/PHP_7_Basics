@@ -152,6 +152,33 @@
                         <li><a href="exercicio.php?dir=array&file=comparation">Comparação entre Arrays</a></li>
                     </ul>
                 </div>
+                <div class="modulo verde-escuro ">
+                    <h3>6. Estruturas de Repetição</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=for">Laço FOR</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio FOR</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">For Each</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=while">While/Do while</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela #01</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">Desafio Tabela #02</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
