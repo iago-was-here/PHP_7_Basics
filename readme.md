@@ -10,3 +10,7 @@
 - Variáveis Variáveis: https://www.php.net/manual/pt_BR/language.variables.variable.php
 - Referências: https://www.php.net/manual/pt_BR/language.references.whatare.php
 - Constantes: https://www.php.net/manual/pt_BR/function.constant.php
+- Estruturas de controle: https://www.php.net/manual/pt_BR/language.control-structures.php
+- Operadores de comparação: https://www.php.net/manual/pt_BR/language.operators.comparison.php
+- Operadores lógicos: https://www.php.net/manual/pt_BR/language.operators.logical.php
+- Formulários: https://www.php.net/manual/pt_BR/tutorial.forms.php
