@@ -14,3 +14,6 @@
 - Operadores de comparação: https://www.php.net/manual/pt_BR/language.operators.comparison.php
 - Operadores lógicos: https://www.php.net/manual/pt_BR/language.operators.logical.php
 - Formulários: https://www.php.net/manual/pt_BR/tutorial.forms.php
+- Arrays: https://www.php.net/manual/pt_BR/language.types.array.php
+- Arrays como mapas: https://www.php.net/manual/pt_BR/function.array-map.php#:~:text=array_map()%20retorna%20um%20array,arrays%20passados%20para%20array_map().
+- Metodos HTTP: https://www.php.net/manual/pt_BR/context.http.php
