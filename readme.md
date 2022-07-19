@@ -17,3 +17,9 @@
 - Arrays: https://www.php.net/manual/pt_BR/language.types.array.php
 - Arrays como mapas: https://www.php.net/manual/pt_BR/function.array-map.php#:~:text=array_map()%20retorna%20um%20array,arrays%20passados%20para%20array_map().
 - Metodos HTTP: https://www.php.net/manual/pt_BR/context.http.php
+- Closure e Callable: https://www.php.net/manual/pt_BR/closure.fromcallable.php
+- Retornando valores: https://www.php.net/manual/pt_BR/functions.returning-values.php
+- Funções variáveis: https://www.php.net/manual/pt_BR/functions.variable-functions.php
+- Funções anônimas: https://www.php.net/manual/pt_BR/functions.anonymous.php
+- Argumentos de funções: https://www.php.net/manual/pt_BR/functions.arguments.php
+- Funções definidas pelo usuario: https://www.php.net/manual/pt_BR/functions.user-defined.php
